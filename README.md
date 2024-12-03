@@ -92,6 +92,12 @@ Here are a few of my recent projects:
       </a>
       <p><strong>Simplest NN example</strong></p>
     </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=Pfcd0gWNIog&">
+        <img src="https://img.youtube.com/vi/Pfcd0gWNIog/hqdefault.jpg" alt="Javier Milei speech in davos" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Javier Milei's economic forum speech</strong></p>
+    </td>
   </tr>
 </table>
 
@@ -134,6 +140,18 @@ Here are a few of my recent projects:
         <img src="https://yt3.googleusercontent.com/rN0sMKGXLGcG-gWIYKnbMyKCgEaIeY62P1vaslUPO_3QObfnwBZNG2hyTmysFYRayXt0LKHJ=s160-c-k-c0x00ffffff-no-rj" alt="Sabine Hossenfelder" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
       </a>
       <p><strong>Sabine Hossenfelder</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.youtube.com/@LinusTechTips">
+        <img src="https://yt3.googleusercontent.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s160-c-k-c0x00ffffff-no-rj" alt="LTT" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+      </a>
+      <p><strong>Linus Tech Tips</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.youtube.com/@mkbhd">
+        <img src="https://yt3.googleusercontent.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s160-c-k-c0x00ffffff-no-rj" alt="Marques Brownlee" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+      </a>
+      <p><strong>Marques Brownlee</strong></p>
     </td>
   </tr>
 </table>
