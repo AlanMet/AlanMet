@@ -73,6 +73,26 @@ Here are a few of my recent projects:
       <p><strong>Incredible Netflix Documentary (Trailer)</strong></p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=WXuK6gekU1Y">
+        <img src="https://img.youtube.com/vi/WXuK6gekU1Y/hqdefault.jpg" alt="Alpha Go documentary" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Alpha Go Documentary</strong></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=aircAruvnKk">
+        <img src="https://img.youtube.com/vi/aircAruvnKk/hqdefault.jpg" alt="3b1b NN" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>3b1b Neural Nets</strong></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=8d6jf7s6_Qs">
+        <img src="https://img.youtube.com/vi/8d6jf7s6_Qs/hqdefault.jpg" alt="simplest neural network example" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Simplest NN example</strong></p>
+    </td>
+  </tr>
 </table>
 
 ## 🌟 Interesting YouTube Channels
