@@ -102,6 +102,14 @@ Here are a few of my recent projects:
   </tr>
 </table>
 
+#
+<details>
+  <summary>
+    <h3>👩‍💻 Alan's Coding Journey</h3>
+  </summary>
+  My programming journey began with Kodu and Minecraft, where I first explored concepts like logic. In Year 7, I started learning Python, which was challenging but exciting, and that challenge fueled my passion. I continued developing my skills with Python and HTML, though I hadn’t fully realized programming's potential yet. After moving to the UK and repeating my GCSEs, I found myself helping others with basic programming concepts, which gave me invaluable teaching experience. During COVID-19, I worked on a Discord bot, gaining hands-on knowledge of databases, APIs, PHP, HTML, OOP, and file storage. My passion for programming was reignited at Barton Peveril College, where dedicated teachers inspired me to push my limits. Today, as a student at the University of Portsmouth, I've expanded my skills to Dart, Flutter, Tkinter, and have been diving into neural networks.
+</details>
+
 ## 🌟 Interesting YouTube Channels
 
 <table style="width:100%; text-align: center; border-spacing: 20px;">
