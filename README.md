@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 - 🔭 **I’m currently working on**: An updated adventure game with a complex parser, built using Flutter and Firebase.
 - 🌱 **I’m currently learning**: AI and machine learning, with a focus on **Recurrent Neural Networks (RNNs)**.
 - 💬 **Ask me about**: Anything! I've spent a long time researching various topics.
-- 📫 **How to reach me**: alanmetwally@gmail.com
 
 ## 🔧 Technologies & Tools
 
@@ -48,11 +47,5 @@ Here are a few of my recent projects:
 ## 🎥 Interesting YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-
-## 🙌 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Portfolio](https://yourportfolio.com)
 
 Thanks for visiting my profile! 🚀
