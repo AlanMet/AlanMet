@@ -129,6 +129,8 @@ Here are a few of my recent projects:
       </a>
       <p><strong>3Blue1Brown</strong></p>
     </td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <a href="https://www.youtube.com/@WelchLabsVideo">
         <img src="https://yt3.googleusercontent.com/Hqn6st1mzGYcnBI3rjNYqylkolPp-iWG6mErZYpoOaZ0F6Uqbr-Sm-5VfAi_GkuUivN1ND-CQaY=s160-c-k-c0x00ffffff-no-rj" alt="Welch Labs" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
