@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Assembly](https://img.shields.io/badge/-Assembly-28A745?style=flat&logo=assembly&logoColor=white)
 
 - **Tools**:
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
