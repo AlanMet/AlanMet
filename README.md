@@ -100,6 +100,21 @@ Here are a few of my recent projects:
       <p><strong>Javier Milei's economic forum speech</strong></p>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=3tUXbbbMhvk">
+        <img src="https://img.youtube.com/vi/3tUXbbbMhvk/hqdefault.jpg" alt="whale communication" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Whale communication</strong></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=0jdL7R3BcnM">
+        <img src="https://img.youtube.com/vi/0jdL7R3BcnM/hqdefault.jpg" alt="guilder design" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Design of Dutch money</strong></p>
+    </td>
+  </tr>
 </table>
 
 #
