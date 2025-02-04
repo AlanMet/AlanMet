@@ -163,7 +163,7 @@ Here are a few of my recent projects:
     </td>
     <td style="text-align: center;">
       <a href="https://www.youtube.com/@SabineHossenfelder">
-        <img src="https://yt3.googleusercontent.com/rN0sMKGXLGcG-gWIYKnbMyKCgEaIeY62P1vaslUPO_3QObfnwBZNG2hyTmysFYRayXt0LKHJ=s160-c-k-c0x00ffffff-no-rj" alt="Sabine Hossenfelder" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+        <img src="https://yt3.googleusercontent.com/YjHzJACT7jTFzpkHRfjWxmVKeBh6_8BpvVFS4iT8fb5xwoAU4sq1SeRGUju91bDOFJo6AjQMOZA=s160-c-k-c0x00ffffff-no-rj" alt="Sabine Hossenfelder" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
       </a>
       <p><strong>Sabine Hossenfelder</strong></p>
     </td>
