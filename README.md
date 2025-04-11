@@ -130,12 +130,6 @@ Here are a few of my recent projects:
 <table style="width:100%; text-align: center; border-spacing: 20px;">
   <tr>
     <td style="text-align: center;">
-      <a href="https://www.youtube.com/@lexfridman">
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSzDQxM_5VTZP_kapf1jJfzlHHJeECbFM9cx_dQ8guTAl-=s160-c-k-c0x00ffffff-no-rj" alt="Lex Fridman" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
-      </a>
-      <p><strong>Lex Fridman</strong></p>
-    </td>
-    <td style="text-align: center;">
       <a href="https://www.youtube.com/@veritasium">
         <img src="https://yt3.googleusercontent.com/ytc/AIdro_nSatGjGLZG1_O1ztYxuKvRazCbk9A0kPhtt2NxEH4ZKfA=s160-c-k-c0x00ffffff-no-rj" alt="Veritasium" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
       </a>
@@ -143,7 +137,7 @@ Here are a few of my recent projects:
     </td>
     <td style="text-align: center;">
       <a href="https://www.youtube.com/@TomScottGo">
-        <img src="https://yt3.googleusercontent.com/8cTZddHsBNWUB3jl3_4OwGNq8NRFI4CTWLflM_ZpdjPG_qOVSSKj45Jd2kOExKOJdYi_Lbi80w=s160-c-k-c0x00ffffff-no-rj" alt="Tom Scott" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+        <img src="https://yt3.googleusercontent.com/1jXww-54zOdx2ksMQ2qDO-c7Jc3ud0BSuyS9WdG7mRwk8f-Ipj9hbWM4qYTqLXDvJw_yonQ0ig=s160-c-k-c0x00ffffff-no-rj" alt="Tom Scott" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
       </a>
       <p><strong>Tom Scott</strong></p>
     </td>
@@ -157,28 +151,15 @@ Here are a few of my recent projects:
   <tr>
     <td style="text-align: center;">
       <a href="https://www.youtube.com/@WelchLabsVideo">
-        <img src="https://yt3.googleusercontent.com/Hqn6st1mzGYcnBI3rjNYqylkolPp-iWG6mErZYpoOaZ0F6Uqbr-Sm-5VfAi_GkuUivN1ND-CQaY=s160-c-k-c0x00ffffff-no-rj" alt="Welch Labs" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+        <img src="https://yt3.googleusercontent.com/az_VrZjYZHzGQeZO1aaUckL5Zh4Nbxsjut6KwKeNkk9GRIdvUlHebHmJwFzDUfLX2hVlWNsb=s160-c-k-c0x00ffffff-no-rj" alt="Welch Labs" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
       </a>
       <p><strong>Welch Labs</strong></p>
     </td>
     <td style="text-align: center;">
-      <a href="https://www.youtube.com/@SabineHossenfelder">
-        <img src="https://yt3.googleusercontent.com/YjHzJACT7jTFzpkHRfjWxmVKeBh6_8BpvVFS4iT8fb5xwoAU4sq1SeRGUju91bDOFJo6AjQMOZA=s160-c-k-c0x00ffffff-no-rj" alt="Sabine Hossenfelder" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
-      </a>
-      <p><strong>Sabine Hossenfelder</strong></p>
-    </td>
-    <td style="text-align: center;">
       <a href="https://www.youtube.com/@LinusTechTips">
-        <img src="https://yt3.googleusercontent.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s160-c-k-c0x00ffffff-no-rj" alt="LTT" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
+        <img src="https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s160-c-k-c0x00ffffff-no-rj" alt="LTT" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
       </a>
       <p><strong>Linus Tech Tips</strong></p>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.youtube.com/@mkbhd">
-        <img src="https://yt3.googleusercontent.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s160-c-k-c0x00ffffff-no-rj" alt="Marques Brownlee" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
-      </a>
-      <p><strong>Marques Brownlee</strong></p>
-    </td>
   </tr>
 </table>
 Thanks for visiting my profile! 🚀
