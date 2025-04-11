@@ -114,6 +114,12 @@ Here are a few of my recent projects:
       </a>
       <p><strong>Design of Dutch money</strong></p>
     </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=c5GMKzJVQJM">
+        <img src="https://img.youtube.com/vi/c5GMKzJVQJM/hqdefault.jpg" alt="singapore speech" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Singapore speech on tarrifs</strong></p>
+    </td>
   </tr>
 </table>
 
