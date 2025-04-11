@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 ## 🔧 Technologies & Tools
 
 - **Languages**:
-  ![Dart](https://img.shields.io/badge/-Dart-00B4A0?style=flat&logo=dart&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-00B4A0?style=flat&logo=dart&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Assembly](https://img.shields.io/badge/-Assembly-28A745?style=flat&logo=assembly&logoColor=white)
@@ -94,10 +94,10 @@ Here are a few of my recent projects:
       <p><strong>Simplest NN example</strong></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=Pfcd0gWNIog&">
-        <img src="https://img.youtube.com/vi/Pfcd0gWNIog/hqdefault.jpg" alt="Javier Milei speech in davos" style="width: 249px; height: 140px;">
+      <a href="https://www.youtube.com/watch?v=u6EuAUjq92k&">
+        <img src="https://img.youtube.com/vi/u6EuAUjq92k/hqdefault.jpg" alt="ray traced audio" style="width: 249px; height: 140px;">
       </a>
-      <p><strong>Javier Milei's economic forum speech</strong></p>
+      <p><strong>Ray traced audio</strong></p>
     </td>
   </tr>
 
