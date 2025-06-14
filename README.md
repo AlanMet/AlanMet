@@ -120,6 +120,12 @@ Here are a few of my recent projects:
       </a>
       <p><strong>Singapore speech on tarrifs</strong></p>
     </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=3ZTGwcHQfLY">
+        <img src="https://img.youtube.com/vi/3ZTGwcHQfLY/hqdefault.jpg" alt="Made in USA" style="width: 249px; height: 140px;">
+      </a>
+      <p><strong>Made in america</strong></p>
+    </td>
   </tr>
 </table>
 
