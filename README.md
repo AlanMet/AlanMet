@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 ## 🚀 About Me
 
 - 🎓 **Currently studying**: Computer Science at the University of Portsmouth (Graduating in 2027)
-- 🔭 **I’m currently working on**: An updated adventure game with a complex parser, built using Flutter and Firebase.
+- 🔭 **I’m currently working on**: A full stack crypto currency from scratch
 - 🌱 **I’m currently learning**: AI and machine learning, with a focus on **Recurrent Neural Networks (RNNs)**.
 - 💬 **Ask me about**: Anything! I've spent a long time researching various topics.
 
