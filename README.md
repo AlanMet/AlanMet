@@ -45,7 +45,7 @@ Here are a few of my recent projects:
 
 1. **[DartNet](https://github.com/AlanMet/DartNet)** – A complex Neural network library built from scratch using my dart matrix library.
 2. **[Zork in c#](https://github.com/AlanMet/Zork)** – A simple version of the text-based adventure game Zork in c# created for my A-level NEA.
-3. **[Smart Home Menu](https://github.com/AlanMet/SmartHome)** – A simple smart home menu created for a University of Portsmouth coursework.
+3. **[Full stack Crypto](https://github.com/AlanMet/Full-Stack-Crypto)** – A full stack project in python to recreate a blockchain.
 
 ## 🎥 Interesting YouTube Videos
 
