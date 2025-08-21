@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 Here are a few of my recent projects:
 
 1. **[DartNet](https://github.com/AlanMet/DartNet)** – A complex Neural network library built from scratch using my dart matrix library.
-2. **[Zork in c#](https://github.com/AlanMet/Zork)** – A simple version of the text-based adventure game Zork in c# created for my A-level NEA.
+2. **[Adventure game](https://github.com/AlanMet/timeless_echo)** – A full stack text based adventure game with a complex parser
 3. **[Full stack Crypto](https://github.com/AlanMet/Full-Stack-Crypto)** – A full stack project in python to recreate a blockchain.
 
 ## 🎥 Interesting YouTube Videos
